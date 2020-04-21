@@ -1,4 +1,4 @@
-package list;
+package array;
 
 public class LC35 {
     public static int searchInsert(int[] nums, int target) {

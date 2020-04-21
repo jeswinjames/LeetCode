@@ -1,4 +1,4 @@
-package list;
+package array;
 
 public class LC53 {
     public static int maxSubArray(int[] nums) {
