@@ -1,4 +1,4 @@
-package array;
+package LeetCode.array;
 
 public class LC53 {
     public static int maxSubArray(int[] nums) {

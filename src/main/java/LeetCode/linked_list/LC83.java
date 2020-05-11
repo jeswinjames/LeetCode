@@ -1,4 +1,4 @@
-package linked_list;
+package LeetCode.linked_list;
 
 public class LC83 {
 
